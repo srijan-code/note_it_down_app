@@ -6,5 +6,6 @@ App contain two screens, first one will have the list of notes and the second sc
 
 
 <img src="https://user-images.githubusercontent.com/68854742/150652886-80e73099-ec61-4ede-9485-689dcb58c3cc.jpg" width=300 height=600>
-![display screen](https://user-images.githubusercontent.com/68854742/150652888-f444cf21-cd02-444e-a934-ef7b82090a0c.jpg)
-![notification](https://user-images.githubusercontent.com/68854742/150652889-5438319a-06d8-4db3-847c-822f36a83e22.jpg)
+<img src="https://user-images.githubusercontent.com/68854742/150652889-5438319a-06d8-4db3-847c-822f36a83e22.jpg" width=300 height=600>
+<img src="https://user-images.githubusercontent.com/68854742/150652888-f444cf21-cd02-444e-a934-ef7b82090a0c.jpg" width=300 height=600>
+
